@@ -1,0 +1,16 @@
+body {
+    background-color: #ffffff;
+    border: solid 2px #dddddd;
+}
+
+header {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    border: solid, 2px, #cccccc;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
