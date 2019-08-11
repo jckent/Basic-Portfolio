@@ -107,3 +107,9 @@ footer,
     border: 2px solid #ddd;
     color: #000;
 }
+
+img {
+    height: 200px;
+    width: 200px;
+    margin: 0 10px 10px 0;
+}
