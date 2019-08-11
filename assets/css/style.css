@@ -1,17 +1,18 @@
 body {
-    background-color: #ffffff;
+    background-color: #;
     }
 
 head {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
-    border: solid, 2px, #cccccc;
+    border-bottom: solid, 25px, #000;
     background-color: #ffffff;
 }
 
 h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    border-bottom: 2px solid #ddd;
 }
 
 h2 {
@@ -20,7 +21,9 @@ h2 {
 
 .main {
     width: 960 px;
-    background-color: #ffffff
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #ddd;
 }
 
 #myname {
@@ -47,14 +50,30 @@ img {
 
 #contact {
     color: #777777;
-    position:
+    position: absolute;
+    left: 600px;
+    top: 10px;
+    border: none;
+    background-repeat: no-repeat;
+    background-color: transparent;
 }
 
 #about {
     color: #777;
-    position:
+    position: absolute;
+    left: 540px;
+    top: 10px;
+    border: none;
+    background-repeat: no-repeat;
+    background-color: transparent;
 }
 
 #portfolio {
-    conlor: #777;
+    color: #777;
+    position: absolute;
+    left: 465px;
+    top: 10px;
+    border: none;
+    background-repeat: no-repeat;
+    background-color: transparent;
 }
