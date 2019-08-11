@@ -1,7 +1,6 @@
 body {
     background-color: #ffffff;
-    border: solid 2px #dddddd;
-}
+    }
 
 head {
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -13,4 +12,49 @@ head {
 h1 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+    display: inline;
+}
+
+.main {
+    width: 960 px;
+    background-color: #ffffff
+}
+
+#myname {
+    background-color: #4aaaa5;
+    color: white;
+}
+
+head p {
+    color: #777777;
+    
+}
+
+img { 
+    padding: 0 auto;
+    margin: 0 200 0 0;
+    height: 250px;
+    width: 200px;
+    float: left;
+}
+
+.main {
+    float: right;
+}
+
+#contact {
+    color: #777777;
+    position:
+}
+
+#about {
+    color: #777;
+    position:
+}
+
+#portfolio {
+    conlor: #777;
 }
